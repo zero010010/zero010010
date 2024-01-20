@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome 👋 to my Github page, I'm Juan Miguel López Piñero </h1>
+<h1 align="center"> Welcome 👋 to my Github </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=I+Love+Data)](https://git.io/typing-svg)
 
