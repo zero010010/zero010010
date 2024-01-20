@@ -1,4 +1,18 @@
+<h1 align="center"> Welcome 👋 to my Github page, I'm Juan Miguel López Piñero </h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=I+Love+Data)](https://git.io/typing-svg)
+
+<img alt="gith logo" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width=100% height="300px" align="center"/>
+
+- 🔭 I’m currently working on a private machine learning model to predict consummer food choices in Europe,<br>
+also i am enroled in the Housing Prices Competition for Kaggle Learn Users
+- 🌱 I’m currently enroled in a  Data Science Bootcamp @The Bridge School
+- 👯 I’m volunteering with Open Food Facts, biggest food data base in the world 
+- 🤔 I’m looking for help with ...Finding my first Data Analysis Job
+- ⚡ Fun fact: ...I'm Half Irish
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Passion for Data
  
 Data in the morning, data in the night <br>
 I live in a world of numbers and bytes<br>
@@ -42,15 +56,3 @@ A world of data, a world of delight<br>
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
    
   Thank you for your visit, Happy learning 
-
-
-
-
-
-
-
-
-
-
-
-
