@@ -12,7 +12,7 @@ also i am enroled in the Housing Prices Competition for Kaggle Learn Users
 - ⚡ Fun fact: ...I'm Half Irish
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Passion for Data
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About me:
  
 Data in the morning, data in the night <br>
 I live in a world of numbers and bytes<br>
