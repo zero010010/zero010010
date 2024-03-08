@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=I+Love+Data)](https://git.io/typing-svg)
 
-<img alt="gith logo" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width=100% height="300px" align="center"/>
+<img alt="gith logo" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width=50% height="150px" align="center"/>
 
 - 🥗 I’m currently working on a private machine learning model to predict consummer food choices in Europe,<br>
 also i am enroled in the Housing Prices Competition for Kaggle Learn Users
