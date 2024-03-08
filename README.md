@@ -8,26 +8,26 @@
 also i am enroled in the Housing Prices Competition for Kaggle Learn Users
 - 📈 I’m currently enroled in a  Data Science Bootcamp @The Bridge School
 - 🌍 I’m volunteering with Open Food Facts, biggest food data base in the world 
-- ℹ️ I’m looking for help with ...Finding my first Data Analysis Job
 - 🇮🇪 Fun fact: ...I'm Half Irish
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About me:
  
-Data in the morning, data in the night <br>
-I live in a world of numbers and bytes<br>
-I search and I browse, i click and I scroll<br>
-I feed the algorithm with data and my soul<br>
+ I created this GitHub account to share my journey as I build my skills in Python and data analysis/machine learning.<br>
 
-I don't want to stop, neither to pause<br>
-I just like to question the digital cause<br>
-I can't disconnect, i can't unplug<br>
-I can't resist the algorithm's hug<br>
+I have experience working with Python and libraries like Pandas, NumPy,NumPy,Seaborn,SciPy, StatsModels, Scikit-learn, Keras,TensorFlow, and SpaCy  for data manipulation, analysis, and machine learning modeling. I'm passionate about deriving insights from data and automating processes with code.<br>
 
-Maybe I'll find, maybe I'll see<br>
-A different model, a different key<br>
-A world of wonder, a world of light<br>
-A world of data, a world of delight<br>
+I'm currently learning more advanced machine learning techniques like neural networks as well as honing my skills in Python and data science libraries. I'm excited to continue growing in this field.<br>
+
+On my GitHub you'll find my learning projects and code as I work through tutorials, online courses, and data sets. I'm looking forward to building a portfolio of projects to showcase my abilities in using Python for data analysis and machine learning.<br>
+
+Feel free to look around my repositories and project code! I welcome any feedback as I know I still have a lot to learn. Don't hesitate to reach out if you have any tips or just want to connect.<br>
+
+**Iter codificandi pergat**<br>
+
+
+
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect 
 
